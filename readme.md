@@ -8,3 +8,8 @@ Escrbir algo....
 ## Contact me
 
 Contactame :D... 
+
+##Technologies
+- HTML
+- CSS
+- JS
