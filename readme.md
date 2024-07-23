@@ -8,3 +8,8 @@ Escrbir algo....
 ## Contact me
 
 Contactame :D... 
+
+## Languages
+ - English
+ - Spanish
+ - French
