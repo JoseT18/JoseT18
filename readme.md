@@ -8,3 +8,11 @@ Escrbir algo....
 ## Contact me
 
 Contactame :D... 
+# Skills
+- coaching
+- Hobbys
+-
+-
+-
+
+
