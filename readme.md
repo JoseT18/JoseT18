@@ -13,3 +13,11 @@ Contactame :D...
 - HTML
 - CSS
 - JS
+
+## HOBBIES
+- Dancing
+
+# Skills
+- coaching
+- Hobbys
+
