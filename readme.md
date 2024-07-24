@@ -13,3 +13,13 @@ Contactame :D...
  - English
  - Spanish
  - French
+## Technologies
+- HTML
+- CSS
+- JS
+## HOBBIES
+- Dancing
+# Skills
+- coaching
+- Hobbys
+
