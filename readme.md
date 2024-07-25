@@ -9,6 +9,11 @@ Escrbir algo....
 
 Contactame :D... 
 
+## Languages
+ - English
+ - Spanish
+ - French
+ 
 ## Technologies
 - HTML
 - CSS
